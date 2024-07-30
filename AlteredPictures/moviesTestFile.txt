@@ -1,0 +1,15 @@
+300	Action	2006	7.6	FALSE	This movie was adapted from the historically inspired graphic novel of the same name by Frank Miller from 1998.
+A Clockwork Orange	Sci-fi	1971	8.3	FALSE	This film was adapted from Anthony Burgress's 1962 novel.
+American Psycho	Thriller	2000	7.6	FALSE	This movie was adapted from the 1991 novel of the same name by Bret Ellis.
+Cloud Atlas	Sci-fi	2012	7.4	FALSE	This movie  was adapted from the same name 2004 novel by David Mitchell.
+Deadpool	Action	2016	8	FALSE	This movie is based on the Marvels comics character created in 1991.
+Deathnote	Thriller	2017	4.4	FALSE	This movie was inspired by the manga series written in 2003 by Tsugumi Ohba.
+Doom	Action	2005	5.2	FALSE	"This movie was adapted from Doom, based on the 1993 fps videogame series by id Software."
+Dune	Sci-fi	2021	8.2	FALSE	This movie was adapted from the 1965 novel by Frank Herbert.
+Jurassic Park	Sci-fi	1993	8.1	FALSE	This film was adapted from Michael Crichton's 1990 novel.
+Lara Croft: Tomb Raider	Adventure	2001	5.8	FALSE	"This movie was adapted from Tomb Raider, the action-adventure video game series created by Core Design"
+Silent Hill	Horror	2006	6.5	FALSE	This movie was adapted from Konami's 1999 horror videogame Silent Hill.
+Sin City	Acton	2005	8	FALSE	This movie was inspired Frank Milers title of the same name created in1991.
+The Amazing Spiderman	Action	2012	6.9	FALSE	This movie shares the same title of the still running Spiderman series which started in 1963.
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"	Adventure	2005	6.9	TRUE	"This movie was adapted from the book of the same title, written by the author C. S. Lewis and published in 1950."
+The Dark Knight	Action	2008	9	FALSE	This movie was inspired by 1988 graphic novel The Killing  Joke by Alan Moore.
